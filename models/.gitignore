@@ -1,0 +1,5 @@
+./venv
+./*.npy
+.idea/
+traindata
+venv

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="883f24d5-8e4b-42af-9ac7-d74299014777" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../models/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/Baseline Models multiple currency.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/Baseline Models multiple currency.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/Baseline models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/Baseline models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/baseline_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/baseline_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/dates_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/dates_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/ecu/.ipynb_checkpoints/pipeline_demo-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/ecu/.ipynb_checkpoints/pipeline_demo-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/ecu/norm_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/ecu/norm_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/ecu/pipeline_demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/ecu/pipeline_demo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/train_asks.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../models/train_asks.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/train_bids.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../models/train_bids.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/train_labels.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../models/train_labels.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/.ipynb_checkpoints/baseline_models2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/.ipynb_checkpoints/baseline_models2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/baseline_models2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/baseline_models2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/data_normalisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/data_normalisation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/missing_orders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/missing_orders.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/new_format_to_old.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/new_format_to_old.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/orderbook/Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/orderbook/Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/orderbook/Orderbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/orderbook/Orderbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/orderbook/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/orderbook/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/prediction_keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/prediction_keras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/print_perf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/print_perf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/rapids_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/rapids_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/snapshot_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/snapshot_create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/timing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/timing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/v2/visualisation2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/v2/visualisation2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/visualisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models/visualisation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/workspace/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../models/workspace/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervisord.conf" beforeDir="false" afterPath="$PROJECT_DIR$/supervisord.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update-crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/update-crawler.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WF0kXiknkzrFbTtGk2s8ufkrYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.update-crawler">
+    <configuration name="aggregator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aggregator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update-crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CONFIG_MODE" value="fixed" />
+        <env name="PRODUCTS" value="BTC-USD,ETH-USD,ETH-EUR,BTC-EUR,XRP-USD" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update-crawler.py" />
+      <option name="PARAMETERS" value="BTC-USD" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.aggregator" />
+      <item itemvalue="Python.update-crawler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.update-crawler" />
+        <item itemvalue="Python.aggregator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="883f24d5-8e4b-42af-9ac7-d74299014777" name="Default Changelist" comment="" />
+      <created>1578730178582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578730178582</updated>
+      <workItem from="1578730184428" duration="636000" />
+      <workItem from="1578730847366" duration="222000" />
+      <workItem from="1578731347799" duration="5861000" />
+      <workItem from="1578950188335" duration="267000" />
+      <workItem from="1579112346025" duration="1125000" />
+      <workItem from="1579201071485" duration="268000" />
+      <workItem from="1579279155540" duration="611000" />
+      <workItem from="1579363968211" duration="2653000" />
+      <workItem from="1579442027239" duration="4299000" />
+      <workItem from="1579550258563" duration="552000" />
+      <workItem from="1579630702739" duration="149000" />
+      <workItem from="1581021199806" duration="389000" />
+      <workItem from="1581105746411" duration="128000" />
+      <workItem from="1582744983346" duration="4694000" />
+      <workItem from="1583001944458" duration="3712000" />
+      <workItem from="1583075175076" duration="2096000" />
+      <workItem from="1583182077635" duration="28000" />
+      <workItem from="1583962026017" duration="1130000" />
+      <workItem from="1584189682925" duration="3426000" />
+      <workItem from="1584348264967" duration="1894000" />
+      <workItem from="1585413055290" duration="758000" />
+      <workItem from="1585596952649" duration="43000" />
+      <workItem from="1585667971781" duration="1621000" />
+      <workItem from="1585770008380" duration="1573000" />
+      <workItem from="1585852183053" duration="659000" />
+      <workItem from="1585861353287" duration="945000" />
+      <workItem from="1585895727323" duration="219000" />
+      <workItem from="1586006975416" duration="228000" />
+      <workItem from="1588622159773" duration="49000" />
+      <workItem from="1588790077748" duration="691000" />
+    </task>
+    <task id="LOCAL-00001" summary="Improvements to the crawler + data normalisation">
+      <created>1578735395131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578735395131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Smaller improvements">
+      <created>1579443267459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579443267459</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Small update to the crawler.">
+      <created>1579550602014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579550602014</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added exiting to crawler, so it gets re-run by the Docker init scripts">
+      <created>1579550705914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579550705914</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes to update crawler">
+      <created>1583075320533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583075320533</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Small fix on the crawler.">
+      <created>1584342526405</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584342526405</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Crawler fixes">
+      <created>1585895813901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585895813901</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Crawler fixes">
+      <created>1585895911881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585895911881</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Improvements to the crawler + data normalisation" />
+    <MESSAGE value="Smaller improvements" />
+    <MESSAGE value="Small update to the crawler." />
+    <MESSAGE value="Added exiting to crawler, so it gets re-run by the Docker init scripts" />
+    <MESSAGE value="Changes to update crawler" />
+    <MESSAGE value="Small fix on the crawler." />
+    <MESSAGE value="Crawler fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crawler fixes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_crawler$aggregator.coverage" NAME="aggregator Coverage Results" MODIFIED="1578732369967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_crawler$update_crawler.coverage" NAME="update-crawler Coverage Results" MODIFIED="1585771819497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

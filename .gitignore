@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+./py-crawler/venv
+./py-crawler/__pycache__

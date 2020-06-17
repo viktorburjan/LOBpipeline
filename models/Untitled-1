@@ -1,0 +1,17 @@
+https://arxiv.org/pdf/1810.09965.pdf : Convolutional, LSTM methods for predicting LOBs.
+https://arxiv.org/abs/1910.03743 : Reinforcement learning for LOB 
+https://arxiv.org/abs/1911.08647 : Deep learning for crypto market making (a bit different, not predicting, focus on exchange's liquidity, etc.)
+https://arxiv.org/abs/1808.03668 : DeepLOB, using Universal features from multiple assets. 
+https://pdfs.semanticscholar.org/4148/7776364a6dddee91f1e2d2b78f46d0b93499.pdf : Artificial Neural Networks architectures for stock price prediction:comparisons and applications
+    detailed network architecture with Keras, comparing LSTMs, CNNs, ANNs. 
+https://arxiv.org/pdf/1903.04610.pdf : using bar chart IMAGES as input for convolutional networks? 
+https://pdfs.semanticscholar.org/3ab8/177662aaacef6bcdc5962c6a334a10e52c30.pdf : a bit older paper, using neural networks for predicting prices on the Kuala
+    Lumpur stock exchange.
+
+https://github.com/IsaacChanghau/StockPrediction/blob/master/A%20deep%20learning%20framework%20for%20financial%20time%20series%20using%20stacked%20autoencoders%20and%20long-short%20term%20memory.pdf 
+    Auto encoders for prediction
+
+https://www.researchgate.net/publication/13853244_Long_Short-term_Memory : LSTM article
+
+https://www.researchgate.net/publication/285164623_An_Introduction_to_Convolutional_Neural_Networks : Convolutional neural Networks
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf : ImageNet prediction with NN
